@@ -3,3 +3,27 @@
 ################################################################################
 
 /.vs
+/OpenPOS/bin/Debug/app.publish
+/OpenPOS/obj
+/OpenPOS.Controls/bin/Debug
+/OpenPOS.Controls/obj
+/OpenPOS.Data/bin/Debug
+/OpenPOS.Data/obj
+/OpenPOS.Infrastructure/bin/Debug
+/OpenPOS.Infrastructure/obj/Debug
+/OpenPOS.Infrastructure/obj/Release
+/OpenPOS.Modules.Customers/bin/Debug
+/OpenPOS.Modules.Customers/obj
+/OpenPOS.Modules.Maintance/bin/Debug
+/OpenPOS.Modules.Maintance/obj
+/OpenPOS.Modules.Navigation/bin/Debug
+/OpenPOS.Modules.Navigation/obj
+/OpenPOS.Modules.Sales/bin/Debug
+/OpenPOS.Modules.Sales/obj
+/OpenPOS.Modules.Stock/bin/Debug
+/OpenPOS.Modules.Stock/obj
+/OpenPOS.Modules.System/bin/Debug
+/OpenPOS.Modules.System/obj
+/OpenPOS.Modules.Users/bin/Debug
+/OpenPOS.Modules.Users/obj
+/OpenPOS/bin/Debug
